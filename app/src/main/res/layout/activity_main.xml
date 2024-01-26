@@ -31,7 +31,7 @@
         android:textColorHint="@color/white"
         android:layout_margin="20dp"
         android:padding="20dp"
-        tools:ignore="HardcodedText" />
+        tools:ignore="HardcodedText"  />
     <EditText
         android:id="@+id/password"
         android:layout_width="match_parent"
